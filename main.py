@@ -32,7 +32,7 @@ for date, name in zip(dates, names):
     },
 
     'attendees': [
-      {'email': 'bbtengan4@gmail.com'}, # choose any random email
+      {'email': 'abcdefg@gmail.com'}, # choose the email that has google calender enabled on it
 
     ],
     'reminders': {
